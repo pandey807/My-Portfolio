@@ -11,7 +11,7 @@ I'm a B.Tech student passionate about building scalable web applications and inn
 - **Cloud Computing**
 - **IoT Solutions**
 
-Currently, I'm focused on creating meaningful digital experiences and exploring smart village technologies.
+Currently, I specialize in designing efficient and robust software applications while continuously improving user-focused digital systems.
 
 ## 💻 What's Inside
 
@@ -41,8 +41,8 @@ Check out the live portfolio: [Visit My Portfolio](https://pandey807.github.io/M
 
 Feel free to reach out if you'd like to collaborate or discuss opportunities:
 
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [pandeyayushman707@example.com]
+- LinkedIn: [https://www.linkedin.com/in/ayushman-pandey-442051253/]
 - GitHub: [@pandey807](https://github.com/pandey807)
 
 ---
